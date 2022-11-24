@@ -18,6 +18,7 @@ RPG that stores avatars, shops and weapons on-chain.
 - References
 - Structs
 - Vectors
+- Dynamic Fields
 
 ### Patterns
 - Capabilities
@@ -38,3 +39,8 @@ RPG that stores avatars, shops and weapons on-chain.
 
 To run this demo, you will need a recent (0.13+) version of Sui
 installed -- it has been tested with 0.15.
+
+
+## Weapon Inventory graphic
+[](asd)
+
